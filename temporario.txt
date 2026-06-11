@@ -1,1 +1,1 @@
-cat /etc/systemd/system/getty@tty1.service.d/override.conf 2>/dev/null || echo "não existe"
+https://claude.ai/chat/c6be42ee-e35e-4fa7-a352-23e63c512a68
